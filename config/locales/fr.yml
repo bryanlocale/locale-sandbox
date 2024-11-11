@@ -1,0 +1,6 @@
+fr:
+  static_pages:
+    home:
+      welcome: fr - Welcome to the Sample App
+      signup: fr - Sign up now!
+      existing_account: fr - Already have an account v2
