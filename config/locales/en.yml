@@ -1,6 +1,6 @@
 en:
   static_pages:
     home:
-      welcome: "Welcome to the Sample App v2"
+      welcome: "Welcome to the Sample App"
       signup: "Sign up now!"
       existing_account: "Already have an account?"
