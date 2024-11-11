@@ -2,5 +2,5 @@ en:
   static_pages:
     home:
       welcome: "Welcome to the Sample App v4"
-      signup: "Sign up now! v4"
+      signup: "Sign up now! v5"
       existing_account: "Already have an account v5"
