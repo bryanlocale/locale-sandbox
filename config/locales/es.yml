@@ -1,6 +1,6 @@
 es:
   static_pages:
     home:
-      welcome: es - Welcome to the Sample App v8
-      signup: es - Sign up now! v8
-      existing_account: es - Already have an account 10
+      welcome: es - Welcome to the Sample App
+      signup: es - Sign up now!
+      existing_account: es - Already have an account
