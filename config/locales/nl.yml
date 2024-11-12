@@ -1,0 +1,6 @@
+nl:
+  static_pages:
+    home:
+      welcome: nl - Welcome to the Sample App
+      signup: nl - Sign up now!
+      existing_account: nl - Already have an account
