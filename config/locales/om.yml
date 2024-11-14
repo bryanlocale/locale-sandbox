@@ -1,0 +1,6 @@
+om:
+  static_pages:
+    home:
+      welcome: om - Welcome to the Sample App
+      signup: om - Sign up now!
+      existing_account: om - Already have an account check manual
