@@ -1,0 +1,6 @@
+fi:
+  static_pages:
+    home:
+      welcome: fi - Welcome to the Sample App
+      signup: fi - Sign up now!
+      existing_account: fi - Already have an account check webhook
