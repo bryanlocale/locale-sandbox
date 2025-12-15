@@ -1,26 +1,8 @@
 {
-  "@@locale": "en_US",
-  "title_bar": "My Cool Home V2",
-  "@title_bar": {
+  "notification_examples.core.drawer_experiences.notification_service.notification_service": "Notification Manager",
+  "@notification_examples.core.drawer_experiences.notification_service.notification_service": {
     "type": "text",
-    "context": "HomePage",
-    "description": "Page title."
-  },
-  "MSG_OK": "Everything works fine.",
-  "FOO_123": "Your pending cost is {COST}",
-  "@FOO_123": {
-    "type": "text",
-    "context": "HomePage:MainPanel",
-    "description": "balance statement.",
-    "source_text": "Your pending cost is {COST}",
-    "placeholders": {
-      "COST": {
-        "example": "$123.45",
-        "description": "cost presented with currency symbol"
-      }
-    },
-    "screen": "data:image/png;base64,iVBORw0KGgo...",
-    "video": "http://www.youtube.com/ajigliech"
-  },
-  "BAR_231": "images/image_bar.jpg"
+    "placeholders": {},
+    "source_text": "Notification Manager"
+  }
 }
