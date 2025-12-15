@@ -1,6 +1,6 @@
 {
   "@@locale": "en_US",
-  "title_bar": "My Cool Home",
+  "title_bar": "My Cool Home V2",
   "@title_bar": {
     "type": "text",
     "context": "HomePage",
