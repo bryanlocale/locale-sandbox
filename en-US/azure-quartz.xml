@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="azure-quartz">
+  <meta>
+    <title>Azure Quartz V2</title>
+    <language>en-US</language>
+  </meta>
+  <content>
+    <heading>We're here to help V2</heading>
+    <body>Your feedback helps us build a better product for everyone. V2</body>
+    <title.meta>This is the meta new title V2</title.meta>
+    <description.meta>This is the meta new description V2</description.meta>
+    <long_description.meta>This is the meta long description V2</long_description.meta>
+  </content>
+</page>
