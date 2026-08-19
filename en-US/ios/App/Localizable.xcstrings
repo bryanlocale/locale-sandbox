@@ -1,0 +1,83 @@
+{
+  "sourceLanguage": "en",
+  "version": "1.0",
+  "strings": {
+    "common_save": {
+      "comment": "Generic save button, used across the whole app (key reuse demo: same key exists in Android and web)",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Save" } }
+      }
+    },
+    "common_cancel": {
+      "comment": "Generic cancel button",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Cancel" } }
+      }
+    },
+    "common_close": {
+      "comment": "Dismisses a dialog or overlay",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Close" } }
+      }
+    },
+    "store_hours_close": {
+      "comment": "CONTEXT: store closing time on the store-locator card, NOT a dismiss action",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Close" } }
+      }
+    },
+    "home_title": {
+      "comment": "Home screen greeting headline",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Welcome back" } }
+      }
+    },
+    "home_search_hint": {
+      "comment": "Placeholder text in the global search input",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Search products, colors, sizes…" } }
+      }
+    },
+    "checkout_pay_now": {
+      "comment": "Primary checkout button. Keep under 20 characters, appears on a small button.",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Pay now" } }
+      }
+    },
+    "checkout_items_count": {
+      "comment": "Bag item counter with plural variation",
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": { "stringUnit": { "state": "translated", "value": "%d item in your bag" } },
+              "other": { "stringUnit": { "state": "translated", "value": "%d items in your bag" } }
+            }
+          }
+        }
+      }
+    },
+    "pdp_add_to_cart": {
+      "comment": "RENAME DEMO: becomes product_add_to_bag next release; TM should carry the translation",
+      "extractionState": "manual",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Add to bag" } }
+      }
+    },
+    "legacy_promo_2025": {
+      "comment": "OBSOLETE: unreferenced since v3.2, candidate for removal",
+      "extractionState": "stale",
+      "localizations": {
+        "en": { "stringUnit": { "state": "translated", "value": "Summer Sale 2025 - up to 50% off" } }
+      }
+    }
+  }
+}
