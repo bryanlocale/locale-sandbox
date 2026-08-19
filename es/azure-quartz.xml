@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page id="azure-quartz">
+  <meta>
+    <title>Cuarzo de Azure V2</title>
+    <language>es-ES</language>
+  </meta>
+  <content>
+    <heading>Estamos aquí para ayudar a V2</heading>
+    <body>Sus comentarios nos ayudan a construir un mejor producto para todos. V2</body>
+    <title.meta>ES - This is the meta new title V2</title.meta>
+    <description.meta>ES - This is the meta new description V2</description.meta>
+    <long_description.meta>ES - This is the meta long description V2</long_description.meta>
+  </content>
+</page>
