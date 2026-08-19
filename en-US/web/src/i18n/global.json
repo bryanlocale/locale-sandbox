@@ -1,0 +1,42 @@
+{
+  "common_save": {
+    "defaultMessage": "Save",
+    "description": "Generic save button, used across the whole web app"
+  },
+  "common_cancel": {
+    "defaultMessage": "Cancel",
+    "description": "Generic cancel button"
+  },
+  "common_close": {
+    "defaultMessage": "Close",
+    "description": "Dismisses a dialog or overlay"
+  },
+  "store_hours_close": {
+    "defaultMessage": "Close",
+    "description": "CONTEXT: store closing time on the store-locator card, not a dismiss action"
+  },
+  "home_title": {
+    "defaultMessage": "Welcome back",
+    "description": "Home page greeting headline"
+  },
+  "home_search_hint": {
+    "defaultMessage": "Search products, colors, sizes…",
+    "description": "Placeholder text in the global search input"
+  },
+  "checkout_pay_now": {
+    "defaultMessage": "Pay now",
+    "description": "Primary checkout button. Keep under 20 characters."
+  },
+  "checkout_items_count": {
+    "defaultMessage": "{count, plural, one {# item in your bag} other {# items in your bag}}",
+    "description": "Bag item counter with ICU plural"
+  },
+  "pdp_add_to_cart": {
+    "defaultMessage": "Add to bag",
+    "description": "RENAME DEMO: becomes product_add_to_bag next release; TM should carry the translation"
+  },
+  "legacy_promo_2025": {
+    "defaultMessage": "Summer Sale 2025 - up to 50% off",
+    "description": "OBSOLETE: unreferenced since v3.2, candidate for removal"
+  }
+}
