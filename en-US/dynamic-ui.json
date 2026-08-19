@@ -1,9 +1,0 @@
-{
-  "dynamic_ui": {
-    "banner_dismiss": "Not now",
-    "banner_accept": "Yes, notify me",
-    "loading": "Loading…",
-    "error_generic": "Something went wrong. Please try again.",
-    "retry": "Retry"
-  }
-}
