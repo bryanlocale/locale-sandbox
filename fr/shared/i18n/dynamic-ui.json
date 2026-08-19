@@ -1,0 +1,9 @@
+{
+  "dynamic_ui": {
+    "banner_dismiss": "Pas maintenant",
+    "banner_accept": "Oui, prévenez-moi",
+    "loading": "Chargement…",
+    "error_generic": "Quelque chose a mal tourné. Veuillez réessayer.",
+    "retry": "Réessayer"
+  }
+}

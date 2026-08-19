@@ -1,0 +1,42 @@
+{
+  "common_save": {
+    "defaultMessage": "حفظ",
+    "description": "زر حفظ عام، يستخدم عبر تطبيق الويب بأكمله"
+  },
+  "common_cancel": {
+    "defaultMessage": "إلغاء",
+    "description": "زر إلغاء عام"
+  },
+  "common_close": {
+    "defaultMessage": "أغلق",
+    "description": "استبعاد مربع حوار أو تراكب"
+  },
+  "store_hours_close": {
+    "defaultMessage": "أغلق",
+    "description": "السياق: وقت إغلاق المتجر على بطاقة محدد موقع المتجر، وليس إجراء الاستبعاد"
+  },
+  "home_title": {
+    "defaultMessage": "Welcome back",
+    "description": "عنوان ترحيب الصفحة الرئيسية"
+  },
+  "home_search_hint": {
+    "defaultMessage": "ابحث عن المنتجات والألوان والأحجام...",
+    "description": "نص العنصر النائب في إدخال البحث العمومي"
+  },
+  "checkout_pay_now": {
+    "defaultMessage": "Pay now",
+    "description": "زر السحب الأساسي. احتفظ بأقل من 20 حرفا."
+  },
+  "checkout_items_count": {
+    "defaultMessage": "{count, plural, one {# item in your bag} عناصر {# أخرى في حقيبتك}",
+    "description": "عداد عناصر الحقيبة مع وحدة العناية المركزة الجمع"
+  },
+  "pdp_add_to_cart": {
+    "defaultMessage": "أضف إلى عربة المشتريات",
+    "description": "RENAME DEMO: يصبح product_add_to_bag الإصدار التالي ؛ يجب أن تحمل TM الترجمة"
+  },
+  "legacy_promo_2025": {
+    "defaultMessage": "تخفيضات الصيف 2025 - خصم يصل إلى 50٪",
+    "description": "عفا عليها الزمن: غير مشار إليها منذ v3.2، مرشح للإزالة"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "dynamic_ui": {
+    "banner_dismiss": "Nicht jetzt",
+    "banner_accept": "Ja, benachrichtigen Sie mich",
+    "loading": "Laden...",
+    "error_generic": "Irgendetwas ist schief gelaufen. Bitte versuchen Sie es erneut.",
+    "retry": "Wiederholen"
+  }
+}
