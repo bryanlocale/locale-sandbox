@@ -1,0 +1,9 @@
+{
+  "dynamic_ui": {
+    "banner_dismiss": "ليس الآن",
+    "banner_accept": "نعم، أبلغني",
+    "loading": "تحميل...",
+    "error_generic": "حدث خطأ ما. يُرجى المُحاولة مرة أخرى.",
+    "retry": "أعد المحاولة"
+  }
+}
