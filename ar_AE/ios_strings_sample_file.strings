@@ -1,0 +1,21 @@
+
+/*Please don't change the name of the application*/
+"app.name" = "قائمة تودو";
+
+/*Fuzzy*/
+"app.login.text" = "أدخل بيانات اعتمادك أدناه لتسجيل الدخول";
+"app.login.message.success" = "Login successful !\nWelcome back %1$s !";
+"app.login.message.error" = "تأكد من إدخال اسم المستخدم وكلمة المرور الصحيحين";
+"app.login.password.forget" = "I forgot my password";
+"app.login.password.reset" = "أدخل عنوانك في الحقل أدناه. سيتم إرسال كلمة مرور جديدة إلى علبة الوارد.";
+"app.register.text" = "Sign up for free! No credit card required!";
+"app.register.message.success" = "Thank you for signing up !\nيرجى التحقق من عنوان بريدك الإلكتروني لتفعيل حسابك.";
+"app.register.message.error" = "لم نتمكن من تسجيلك.\nالرجاء تصحيح الحقول التي تم وضع علامة عليها.";
+"app.menu.terms" = "الشروط والأحكام";
+
+/*form_label*/
+"app.login.text" = "اسم المستخدم";
+"app.users.active" = "مستخدم واحد فقط عبر الإنترنت";
+
+/*form_label*/
+"app.login.pass" = "كلمة السرّ";
