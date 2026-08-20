@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>     <!-- Common actions shared across products (key reuse demo: same keys exist in iOS and web) -->     <string name="common_save">Enregistrer</string>
+    <string name="common_cancel">Annuler</string>
+    <string name="common_close">Close</string>      <!-- Context demo: identical source text, different UI context.
+         "Close" here means closing hours of a store, NOT dismissing a dialog. -->     <string name="store_hours_close">Close</string>      <!-- Home screen -->     <string name="home_title">Welcome back</string>
+    <string name="home_search_hint">Search products, colors, sizes…</string>      <!-- Checkout. Translator note: keep under 20 characters, appears on a small button. -->     <string name="checkout_pay_now">Pay now</string>
+    <string name="checkout_items_count">%1 $d articles dans votre sac</string>      <!-- Rename demo: this key will be renamed to product_add_to_bag in the next release;
+         translation memory should carry the translation over. -->     <string name="pdp_add_to_cart">Add to bag</string>      <!-- Obsolete-key demo: no longer referenced in code as of v3.2; should be
+         flagged and removed by the obsolete-key handling flow. -->     <string name="legacy_promo_2025">Summer Sale 2025 - up to 50% off</string>
+</resources>
