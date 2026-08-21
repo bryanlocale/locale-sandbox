@@ -1,0 +1,42 @@
+{
+  "common_save": {
+    "defaultMessage": "Enregistrer",
+    "description": "Bouton d’enregistrement générique, utilisé dans toute l’application Web"
+  },
+  "common_cancel": {
+    "defaultMessage": "Annuler",
+    "description": "Bouton d’annulation générique"
+  },
+  "common_close": {
+    "defaultMessage": "Fermer",
+    "description": "Rejette une boîte de dialogue ou une superposition"
+  },
+  "store_hours_close": {
+    "defaultMessage": "Fermer",
+    "description": "CONTEXTE : heure de fermeture du magasin sur la carte de localisation du magasin, pas une action de rejet"
+  },
+  "home_title": {
+    "defaultMessage": "Content de te revoir",
+    "description": "Titre de la page d’accueil"
+  },
+  "home_search_hint": {
+    "defaultMessage": "Rechercher des produits, des couleurs, des tailles…",
+    "description": "Texte de l’espace réservé dans l’entrée de recherche globale"
+  },
+  "checkout_pay_now": {
+    "defaultMessage": "Payer maintenant",
+    "description": "Bouton d’extraction principal. Conserver moins de 20 caractères."
+  },
+  "checkout_items_count": {
+    "defaultMessage": "{nombre, pluriel, un {# article dans votre sac} autres {# articles dans votre sac}}",
+    "description": "Compteur d’articles de sac avec ICU pluriel"
+  },
+  "pdp_add_to_cart": {
+    "defaultMessage": "Ajouter au panier",
+    "description": "RENAME DEMO : devient product_add_to_bag dans la prochaine version; TM doit transporter la traduction"
+  },
+  "legacy_promo_2025": {
+    "defaultMessage": "Soldes d'été 2025 – jusqu'à 50 % de réduction",
+    "description": "OBSOLÈTE : non référencé depuis v3.2, candidat à la suppression"
+  }
+}

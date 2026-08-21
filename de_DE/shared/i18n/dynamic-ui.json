@@ -1,0 +1,9 @@
+{
+  "dynamic_ui": {
+    "banner_dismiss": "Jetzt nicht",
+    "banner_accept": "Ja, benachrichtigen Sie mich",
+    "loading": "Lädt ...",
+    "error_generic": "Leider ist ein Fehler aufgetreten. Bitte versuch es noch einmal.",
+    "retry": "Wiederholen"
+  }
+}

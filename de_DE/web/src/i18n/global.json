@@ -1,0 +1,42 @@
+{
+  "common_save": {
+    "defaultMessage": "Speichern",
+    "description": "Generische Schaltfläche zum Speichern, die in der gesamten Web-App verwendet wird"
+  },
+  "common_cancel": {
+    "defaultMessage": "Abbrechen",
+    "description": "Allgemeine Schaltfläche „Abbrechen“"
+  },
+  "common_close": {
+    "defaultMessage": "Schließen",
+    "description": "Schließt einen Dialog oder ein Overlay"
+  },
+  "store_hours_close": {
+    "defaultMessage": "Schließen",
+    "description": "KONTEXT: Speicherschließzeit auf der Filialkarte, keine Aktion zum Schließen von Filialen"
+  },
+  "home_title": {
+    "defaultMessage": "Willkommen zurück!",
+    "description": "Überschrift für Begrüßung auf der Homepage"
+  },
+  "home_search_hint": {
+    "defaultMessage": "Nach Produkten, Farben, Größen suchen…",
+    "description": "Platzhaltertext in der globalen Sucheingabe"
+  },
+  "checkout_pay_now": {
+    "defaultMessage": "JETZT BEZAHLEN",
+    "description": "Primäre Checkout-Schaltfläche. Weniger als 20 Zeichen."
+  },
+  "checkout_items_count": {
+    "defaultMessage": "{count, plural, one {# item in your bag} other {# items in your bag}",
+    "description": "Beutelzähler mit ICU-Plural"
+  },
+  "pdp_add_to_cart": {
+    "defaultMessage": "In den Warenkorb",
+    "description": "RENAME DEMO: wird in der nächsten Version zu product_add_to_bag; TM sollte die Übersetzung übernehmen"
+  },
+  "legacy_promo_2025": {
+    "defaultMessage": "Summer Sale: bis zu 50 % Rabatt",
+    "description": "VERALTET: nicht referenziert seit v3.2, Kandidat für Entfernung"
+  }
+}
