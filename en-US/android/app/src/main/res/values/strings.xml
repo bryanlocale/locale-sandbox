@@ -3,7 +3,7 @@
     <!-- Common actions shared across products (key reuse demo: same keys exist in iOS and web) -->
     <string name="common_save">Save</string>
     <string name="common_cancel">Cancel</string>
-    <string name="common_close">Close</string>
+    <string name="common_close">Close.</string>
 
     <!-- Context demo: identical source text, different UI context.
          "Close" here means closing hours of a store, NOT dismissing a dialog. -->
