@@ -5,7 +5,7 @@
   <string name="common_cancel">Cancelar</string>
   <string name="common_close">Cerrar</string>
   <string name="common_open">Abrir</string>
-  <string name="common_opening">Apertura!!!!!</string>
+  <string name="common_opening">Apertura!!!!!!!</string>
   <!-- Context demo: identical source text, different UI context.
          "Close" here means closing hours of a store, NOT dismissing a dialog. -->
   <string name="store_hours_close">Cerrar</string>
