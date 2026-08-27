@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>     <!-- Common actions shared across products (key reuse demo: same keys exist in iOS and web) -->     <string name="common_save">Guardar</string>
-    <string name="common_cancel">Cancelar</string>
-    <string name="common_close">Cerrar</string>
-    <string name="common_open">Abrir</string>
-    <string name="common_opening">Apertura</string>      <!-- Context demo: identical source text, different UI context.
-         "Close" here means closing hours of a store, NOT dismissing a dialog. -->     <string name="store_hours_close">Cerrar</string>      <!-- Home screen -->     <string name="home_title">Bienvenido de nuevo</string>
-    <string name="home_search_hint">Buscar productos, colores, tamaños…</string>      <!-- Checkout. Translator note: keep under 20 characters, appears on a small button. -->     <string name="checkout_pay_now">Pague ahora</string>
-    <string name="checkout_items_count">%1$d artículos en la bolsa</string>      <!-- Rename demo: this key will be renamed to product_add_to_bag in the next release;
-         translation memory should carry the translation over. -->     <string name="pdp_add_to_cart">Añadir a la bolsa</string>      <!-- Obsolete-key demo: no longer referenced in code as of v3.2; should be
-         flagged and removed by the obsolete-key handling flow. -->     <string name="legacy_promo_2025">Rebajas de verano 2025 - hasta 50% de descuento</string>
+<resources>
+  <string name="common_save">Guardar</string>
+  <string name="common_cancel">Cancelar</string>
+  <string name="common_close">Cerrar</string>
+  <string name="common_open">Abrir</string>
+  <string name="common_opening">Apertura!!!</string>
+  <string name="store_hours_close">Cerrar</string>
+  <string name="home_title">Bienvenido de nuevo</string>
+  <string name="home_search_hint">Buscar productos, colores, tamaños…</string>
+  <string name="checkout_pay_now">Pague ahora</string>
+  <string name="checkout_items_count">%1$d artículos en la bolsa</string>
+  <string name="pdp_add_to_cart">Añadir a la bolsa</string>
+  <string name="legacy_promo_2025">Rebajas de verano 2025 - hasta 50% de descuento</string>
 </resources>
