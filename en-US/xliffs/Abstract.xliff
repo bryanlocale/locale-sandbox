@@ -3,7 +3,7 @@
   <file original="messages.properties" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="hello">
-        <source>Hello, world!</source>
+        <source>Hello, world, With joe and nevena test!</source>
         <target>Bonjour, le monde !</target>
       </trans-unit>
     </body>
