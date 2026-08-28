@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
+  <file id="AbstractComposer">
+    <skeleton>
+      <meta languageSupportLevel="xm-admin" slackChannel="#communication-framework" teamEmail="commf-engineers@qualtrics.com" summary="Strings for Abstract Composer specific parts of Consistent Communication Experience (CCE)" />
+      <legacy />
+      <developerNotes />
+    </skeleton>
+    <unit id="InsertSurveyLink">
+      <notes>
+        <note id="context">A tooltip description of a button which inserts a survey link into a message</note>
+      </notes>
+      <segment id="strings/InsertSurveyLink/text #1083762">
+        <source>Insert survey link</source>
+      </segment>
+    </unit>
+    <unit id="InsertOptOutLink">
+      <notes>
+        <note id="context">A tooltip description of a button which inserts an opt-out link into a message</note>
+      </notes>
+      <segment id="strings/InsertOptOutLink/text #1083762">
+        <source>Insert opt-out link</source>
+      </segment>
+    </unit>
+    <unit id="InsertInlineEmailQuestion">
+      <notes>
+        <note id="context">Main title of a modal allowing addition of an inline question in a message composer</note>
+      </notes>
+      <segment id="strings/InsertInlineEmailQuestion/text #1083762">
+        <source>Insert inline email question</source>
+      </segment>
+    </unit>
+    <unit id="SurveyQuestion">
+      <notes>
+        <note id="context">Label for a question picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/SurveyQuestion/text #1083762">
+        <source>Survey question</source>
+      </segment>
+    </unit>
+    <unit id="PleaseSelectAQuestion">
+      <notes>
+        <note id="context">Default text on a question picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/PleaseSelectAQuestion/text #1083762">
+        <source>Please select a question...</source>
+      </segment>
+    </unit>
+    <unit id="BackgroundColor">
+      <notes>
+        <note id="context">Label for a background color picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/BackgroundColor/text #1083762">
+        <source>Background color</source>
+      </segment>
+    </unit>
+    <unit id="ButtonColor">
+      <notes>
+        <note id="context">Label for a button color picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/ButtonColor/text #1083762">
+        <source>Button color</source>
+      </segment>
+    </unit>
+    <unit id="TextColor">
+      <notes>
+        <note id="context">Label for a text color picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/TextColor/text #1083762">
+        <source>Text color</source>
+      </segment>
+    </unit>
+    <unit id="AddBorder">
+      <notes>
+        <note id="context">Text on an inline question insertion modal besides a checkbox allowing to toggle border presence</note>
+      </notes>
+      <segment id="strings/AddBorder/text #1083762">
+        <source>Add border</source>
+      </segment>
+    </unit>
+    <unit id="BorderColor">
+      <notes>
+        <note id="context">Label for a border color picker on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/BorderColor/text #1083762">
+        <source>Border color</source>
+      </segment>
+    </unit>
+    <unit id="ButtonAlignment">
+      <notes>
+        <note id="context">Header of a section dedicated to buttons behaviour on an inline question insertion modal</note>
+      </notes>
+      <segment id="strings/ButtonAlignment/text #1083762">
+        <source>Button alignment:</source>
+      </segment>
+    </unit>
+    <unit id="MakeButtonsAlwaysEven">
+      <notes>
+        <note id="context">Text on an inline question insertion modal besides radio button ensuring buttons even appearance</note>
+      </notes>
+      <segment id="strings/MakeButtonsAlwaysEven/text #1083762">
+        <source>Make buttons always even</source>
+      </segment>
+    </unit>
+    <unit id="AdjustButtonsToQuestionContent">
+      <notes>
+        <note id="context">Text on an inline question insertion modal besides radio button making buttons width adjusted to content</note>
+      </notes>
+      <segment id="strings/AdjustButtonsToQuestionContent/text #1083762">
+        <source>Adjust buttons to question content (old behaviour)</source>
+      </segment>
+    </unit>
+    <unit id="Cancel">
+      <notes>
+        <note id="context">Label of a cancel button</note>
+      </notes>
+      <segment id="strings/Cancel/text #1083762">
+        <source>Cancel</source>
+      </segment>
+    </unit>
+    <unit id="Confirm">
+      <notes>
+        <note id="context">Label of a confirm button</note>
+      </notes>
+      <segment id="strings/Confirm/text #1083762">
+        <source>Confirm</source>
+      </segment>
+    </unit>
+  </file>
+</xliff>
