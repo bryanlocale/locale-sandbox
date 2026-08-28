@@ -4,7 +4,7 @@
     <body>
       <trans-unit id="hello">
         <source>Hello, world!</source>
-        <target state="final">Bonjour, le monde !!!!</target>
+        <target state="final">Bonjour, le monde !</target>
       </trans-unit>
     </body>
   </file>
