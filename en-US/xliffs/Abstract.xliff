@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
   <file id="AbstractComposer">
     <skeleton>
-      <meta languageSupportLevel="xm-admin" slackChannel="#communication-framework" teamEmail="commf-engineers@qualtrics.com" summary="Strings, are for Abstract Composer specific parts of Consistent Communication Experience (CCE)" />
+      <meta languageSupportLevel="xm-admin" slackChannel="#communication-framework" teamEmail="commf-engineers@qualtrics.com" summary="Strings,, are for Abstract Composer specific parts of Consistent Communication Experience (CCE)" />
       <legacy />
       <developerNotes />
     </skeleton>
