@@ -4,7 +4,6 @@
     <body>
       <trans-unit id="hello">
         <source>Hello, world, With joe and nevena test!</source>
-        <target>Bonjour, le monde !</target>
       </trans-unit>
     </body>
   </file>
