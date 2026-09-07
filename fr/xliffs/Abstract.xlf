@@ -8,7 +8,7 @@
       </trans-unit>
       <trans-unit id="dantest">
         <source>Testing if it will change V6</source>
-        <target>Tester si cela va changer V4</target>
+        <target>Tester si cela va changer V6</target>
       </trans-unit>
     </body>
   </file>
