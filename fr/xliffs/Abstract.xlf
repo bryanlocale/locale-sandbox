@@ -3,11 +3,11 @@
   <file original="messages.properties" source-language="en" target-language="fr" datatype="plaintext">
     <body>
       <trans-unit id="hello">
-        <source>Welcome. and hello, to everyone, dan test, dan dan dan, to the whole world!!!</source>
+        <source>Welcome. and hello, to everyone, dan test, dan dan dan, to the whole world V7!!!</source>
         <target>Bonjour, le monde !!!!</target>
       </trans-unit>
       <trans-unit id="dantest">
-        <source>Testing if it will change V6</source>
+        <source>Testing if it will change V7</source>
         <target>Tester si cela va changer V6</target>
       </trans-unit>
     </body>
