@@ -4,11 +4,11 @@
     <body>
       <trans-unit id="hello">
         <source>Welcome. and hello, to everyone, dan test, dan dan dan, to the whole world V7!!!</source>
-        <target>Bonjour, le monde !!!!</target>
+        <target>Bienvenue. Et bonjour à tous, et test, et et et, au monde entier V7 !!!</target>
       </trans-unit>
       <trans-unit id="dantest">
         <source>Testing if it will change V7</source>
-        <target>Tester si cela va changer V6</target>
+        <target>Tester si cela va changer V7</target>
       </trans-unit>
     </body>
   </file>
