@@ -7,7 +7,7 @@
         <target>Bonjour, le monde !!!!</target>
       </trans-unit>
       <trans-unit id="dantest">
-        <source>Testing if it will change V5</source>
+        <source>Testing if it will change V6</source>
         <target>Tester si cela va changer V4</target>
       </trans-unit>
     </body>
