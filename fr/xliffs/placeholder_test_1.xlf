@@ -12,20 +12,20 @@
         <note category="description">Shown before deleting a record. Keep the &lt;strong&gt; markup.</note>
       </notes>
       <segment state="reviewed">
-        <source>Delete &lt;strong&gt;<test name="I_AM_AN_EMPTY_TAG"></test><ph disp="RECORD_NAME" equiv="INTERPOLATION" id="0"/>&lt;/strong&gt;? Added an empty tag, This can&apos;t be undone &amp; will remove <ph disp="COUNT" equiv="INTERPOLATION_1" id="1"/> linked entries.</source>
+        <source>Delete &lt;strong&gt;<ph disp="RECORD_NAME" equiv="INTERPOLATION" id="0"/>&lt;/strong&gt;? This can&apos;t be undone &amp; will remove <ph disp="COUNT" equiv="INTERPOLATION_1" id="1"/> linked entries.</source>
         <target>Supprimer &lt;strong&gt;<ph disp="RECORD_NAME" equiv="INTERPOLATION" id="0"/>&lt;/strong&gt;? Cette action est irréversible &amp; supprimera <ph disp="COUNT" equiv="INTERPOLATION_1" id="1"/> entrées liées.</target>
       </segment>
     </unit>
     <unit id="exportTooltip">
       <segment state="initial">
         <source>Export the results as CSV &lt;100 MB&gt; — columns use &quot;;&quot; as separator</source>
-        <target>Exporter les résultats au format CSV &lt;100 Mo&gt; – les colonnes utilisent « ; » comme séparateur</target>
+        <target/>
       </segment>
     </unit>
     <unit id="permissionsSummary">
       <segment state="initial">
         <source>Users with the <ph disp="ROLE" equiv="INTERPOLATION" id="0"/> role can read &amp; write; everyone else is read-only.</source>
-        <target>Les utilisateurs avec le   <ph disp="ROLE" equiv="INTERPOLATION" id="0"/>rôle peuvent lire et écrire; tout le monde est en lecture seule.</target>
+        <target/>
       </segment>
     </unit>
   </file>
