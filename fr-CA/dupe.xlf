@@ -5,51 +5,57 @@
       <!-- Case 1: the same id twice directly in one <file> (the failing run's shape) -->
       <trans-unit id="AttachmentTitle">
         <source>Attachment title</source>
+        <target>FR - Attachment title</target>
       </trans-unit>
       <trans-unit id="AttachmentDescription">
         <source>Describe the attachment</source>
+        <target>FR - Describe the attachment</target>
       </trans-unit>
       <trans-unit id="AttachmentTitle">
         <source>Title of the attachment</source>
+        <target>FR - Title of the attachment</target>
       </trans-unit>
-
       <!-- Case 2: repeats inside a group WITHOUT an id (it adds no scope) -->
       <group>
         <trans-unit id="SaveButton">
           <source>Save</source>
+          <target>FR - Save</target>
         </trans-unit>
         <trans-unit id="SaveButton">
           <source>Save changes</source>
+          <target>FR - Save changes</target>
         </trans-unit>
       </group>
-
       <!-- Control: same id in groups WITH ids — distinct scopes, not repeats -->
       <group id="toolbar">
         <trans-unit id="Close">
           <source>Close</source>
+          <target>FR - Close</target>
         </trans-unit>
       </group>
       <group id="dialog">
         <trans-unit id="Close">
           <source>Close window</source>
+          <target>FR - Close window</target>
         </trans-unit>
       </group>
-
       <!-- Markup + CDATA inside a repeated id -->
       <trans-unit id="HelpText">
         <source>Click <g id="1">here</g> for help.</source>
+        <target>FR - Click <g id="1">here</g> for help.</target>
       </trans-unit>
       <trans-unit id="HelpText">
         <source><![CDATA[Need help? Use <b>F1</b>.]]></source>
+        <target><![CDATA[FR - Need help? FR - Use <b>F1</b>.]]></target>
       </trans-unit>
     </body>
   </file>
-
   <!-- Case 3: a second <file> with the SAME original repeats an id from the first -->
   <file original="cm-metadata-iasworld_messages" source-language="en-US" target-language="fr-CA" datatype="plaintext">
     <body>
       <trans-unit id="AttachmentTitle">
         <source>Attachment name</source>
+        <target>FR - Attachment name</target>
       </trans-unit>
     </body>
   </file>
