@@ -1,0 +1,8 @@
+/* Representative entries from the iOS English InfoPlist resources. */
+CFBundleDisplayName = "Sample App";
+"SHORTCUT_TITLE_MYWEIGHT" = "Ajouter mon poids";
+"SHORTCUT_TITLE_APPOINTMENT" = "Nouveau rendez-vous";
+
+NSCameraUsageDescription = "Cela vous permet de prendre des photos pour votre profil et le suivi de grossesse";
+NSPhotoLibraryUsageDescription = "Cela vous permet de choisir des photos de votre pellicule pour votre profil et le suivi de grossesse";
+NSUserTrackingUsageDescription = "Nous l'utiliserons pour vous proposer un contenu plus personnalisé";

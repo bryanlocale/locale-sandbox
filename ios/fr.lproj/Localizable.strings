@@ -1,0 +1,16 @@
+/* Chaînes françaises — entretenues à la main. */
+
+/* Home screen action title */
+"About us and more"   =   "À propos et plus";
+
+/* Home screen action title */
+"Appointment: %@" = "Rendez-vous : %@";
+
+/* Home screen action title */
+"Due date: %@" = "Date prévue : %@";
+
+/* Contraction labour text */
+"Labour has started!" = "Le travail a commencé !";
+
+/* Facebook snap text for contraction */
+"Labour has started! The last contraction was %@ %@." = "Le travail a commencé ! La dernière contraction était %1$@ %2$@.";
