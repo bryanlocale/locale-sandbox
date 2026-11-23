@@ -15,7 +15,7 @@
 			<key>one</key>
 			<string>Expires in: %ld day</string>
 			<key>other</key>
-			<string>Expires in: %ld days</string>
+			<string>Expires in %ld days</string>
 		</dict>
 	</dict>
 </dict>

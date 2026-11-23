@@ -1,16 +1,16 @@
 /* Representative entries from the iOS English resources. */
 
 /* Home screen action title */
-"About us and more" = "About us and more";
+"About us and more" = "About us and much more";
 
 /* Home screen action title */
-"Appointment: %@" = "Appointment: %@";
+"Appointment: %@" = "Your appointment: %@";
 
-/* Home screen action title */
+/* Home screen action title, shown under the countdown */
 "Due date: %@" = "Due date: %@";
 
-/* Contraction labour text */
-"Labour has started!" = "Labor has started!";
+/* Settings screen title */
+"Settings" = "Settings";
 
 /* Facebook snap text for contraction */
 "Labour has started! The last contraction was %@ %@." = "Labor has started! The last contraction was %1$@ %2$@.";
