@@ -1,10 +1,13 @@
 /* Chaînes françaises — entretenues à la main. */
 
 /* Home screen action title */
-"About us and more"   =   "À propos et plus";
+"About us and more"   =   "À propos de nous et bien plus encore";
 
 /* Home screen action title */
-"Appointment: %@" = "Rendez-vous : %@";
+"Appointment: %@" = "Votre rendez-vous %1$@";
+
+/* Settings screen title */
+"Settings" = "Paramètres";
 
 /* Home screen action title */
 "Due date: %@" = "Date prévue : %@";
