@@ -5,7 +5,7 @@
     <key>Expires in: %ld day(s)</key>
     <dict>
         <key>NSStringLocalizedFormatKey</key>
-        <string>%#@days@</string>
+        <string>%1$#@days@</string>
         <key>days</key>
         <dict>
             <key>NSStringFormatSpecTypeKey</key>
@@ -13,9 +13,11 @@
             <key>NSStringFormatValueTypeKey</key>
             <string>ld</string>
             <key>one</key>
-            <string>Expire dans : %ld jour</string>
+            <string>Expires in: %ld day</string>
+            <key>many</key>
+            <string>Expires in %ld days</string>
             <key>other</key>
-            <string>Expire dans : %ld jours</string>
+            <string>Expires in %ld days</string>
         </dict>
     </dict>
 </dict>
